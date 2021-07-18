@@ -1,0 +1,47 @@
+/*______________________________________________________hw1___________________________________________________________*/
+img {
+    width: 200px;
+    height: 300px;
+}
+
+p {
+    text-align: justify;
+}
+
+.d_flex {
+    display: flex;
+}
+
+.simpsons {
+    margin: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+
+/*______________________________________________________hw2___________________________________________________________*/
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+.wrap div {
+    margin: 3px;
+    padding: 10px;
+    width: 18%;
+    background: #ffa500;
+    text-align: justify;
+}
+
+/*______________________________________________________hw3___________________________________________________________*/
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+}
+.user_b{
+    margin: 3px;
+    width: 48%;
+    background: #ffc800;
+    text-align: justify;
+}
